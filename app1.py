@@ -9,14 +9,14 @@ Name: LenC
 import json
 from difflib import get_close_matches
 
-data=json.load(open('data.json'))
+data=json.load(open('app1_data.json'))
 
 def translate(word):
 	word=word.lower()
 	if word in data:
 		return data[word]
 	elif len(get_close_matches(word,data.keys()))>0:
-		ans=input('Did you mean %s instead? Enter Y/N: ' % (get_close_matches(word,data.keys()))[0])
+		ans=input("Did you mean '%s' instead? Enter Y/N: " % (get_close_matches(word,data.keys()))[0])
 		if ans.lower()=='y':
 			return data[get_close_matches(word,data.keys())[0]]
 		elif ans.lower()=='n':
