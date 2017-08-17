@@ -1,5 +1,5 @@
 '''
-Description: A program that gives to the definition of a word.
+Description: A program that outputs the definition of a word.
 Features: uses python command lines,
 Date: Aug 13,2017
 Name: LenC
