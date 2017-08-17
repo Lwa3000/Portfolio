@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Rainny</title>
+	</head>
+
+	<body>
+		<h1>Hello weather bug!</h1>
+		
+		<h2>You should bring an umbrella!</h2>
+        <img src='static/umb4.jpg' alt="icon"><br>
+        <p> {{ day }}  {{ location }}<br>
+            Temperature: {{ temp }}<br>
+            {{ fctext }}<br>
+            Chance of rain: {{ pop }}%<br>
+            <img src={{ icon }} alt="icon"><br>
+        </p>
+        
+        <h2>Try another location?</h2>
+        <form action='/getlocation'>
+            zip:
+            <input type='text' name='zip'><br><br>
+            -OR-<br><br>
+            city: 
+            <input type='text' name='city'>
+            state abbreviation:
+            <input type='text' name='state'> <br><br>
+            <input type='submit'>
+        </form>
+   </body>
+
+</html>
