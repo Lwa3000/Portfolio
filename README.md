@@ -27,5 +27,5 @@ My portfolio of work 201708
 
 5) A website blocker that blocks users from accessing certain website between 8am and 4pm.
 
-6) webapp: a very simple website deployed online. 
-	How to see:https://lena2017.herokuapp.com
+6) webapp: a website deployed on the cloud with HTML and CSS. 
+	Check it out:https://lenaapp.herokuapp.com
