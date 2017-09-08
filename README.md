@@ -14,7 +14,7 @@ My portfolio of work 201708
 
 3) app_physiology_card_game: This is a beta version. A buzzfeed game that helps you learn human physiology.
 	- How to run: Execute the program by: python3 Game1_v2.py, then follow instructions
-	- Features: 1. Helps you learn by showing you facts and giving you multiple choice questions.
+	- Features: This app helps you learn by showing you facts and checks if you remember them until you get it right.
 	- How to play: You have 4 cards to play with. Each card will have three facts to browse through.
                      After you have browsed through all the cards. You will be asked to answer one random
                      question. You will get 1 jewel for each card you answer correctly.
