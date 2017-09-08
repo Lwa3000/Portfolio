@@ -1,6 +1,6 @@
 # 02_UD_Portfolio
 My portfolio of work 201708
->There are more apps to come.
+>Stay toon for more apps.
 
 1) App1_Dictionary: a python command line app that outputs the definition of a word you enter.
 	- How to run: Execute the program by: python3 app1_Ditionary.py
