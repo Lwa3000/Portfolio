@@ -9,7 +9,7 @@ My portfolio of work 201708
 
 2) App_weather_api: Connects to a weather website api and checks the weather to see if you need to bring an umbrella out today.
 	- How to run: Install flask. Start up the Flask server in a virtual environment and apply the requirement.txt file. Make sure you are connected to the internet.
-	- Features: Works for US cities and zip codes, but could work for certain international cities.
+	- Features: Works for most US cities and zip codes, and possibility some international cities.
 
 
 3) app_physiology_card_game: This is a beta version. A buzzfeed game that helps you learn human physiology.
