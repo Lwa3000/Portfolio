@@ -4,7 +4,7 @@ My portfolio of work 201708
 
 1) App1_Dictionary: a python command line app that outputs the definition of a word you enter.
 	- How to run: Execute the program by: python3 app1_Ditionary.py
-	- Features: If you mistype the word: e.g. rainn instead of rain, the program will warn you.
+	- Features: If you mistype the word: e.g. rainn instead of rain, the program will suggest to you the closest matching word.
 	- youtube demo: https://youtu.be/2_JH0JhCag0
 
 2) App_weather_api: Connects to a weather website api and checks the weather to see if you need to bring an umbrella out today.
