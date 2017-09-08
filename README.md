@@ -8,7 +8,7 @@ My portfolio of work 201708
 	youtube demo: https://youtu.be/2_JH0JhCag0
 
 2) App_weather_api: Connects to a weather website api and checks the weather to see if you need to bring an umbrella out today.
-	How to run: Install flask. Start up the Flask server. Make sure you are connected to the internet.
+	How to run: Install flask. Start up the Flask server in a virtual environment and apply the requirement.txt file. Make sure you are connected to the internet.
 	Features: Works for US cities and zip codes, but could work for certain international cities.
 
 
