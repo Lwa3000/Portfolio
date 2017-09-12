@@ -39,3 +39,9 @@ My portfolio of work 201708
 6) webapp: a website deployed on the cloud with HTML and CSS. 
 	- Check it out:https://lenaapp.herokuapp.com
 	- Tools used: Adobe photoshop, HTML, CSS, heroku
+
+7) bookstore app: a standalone application that stores book information
+	-How to run: python3 app5_script1_tkinter_store.py
+	-Features: View books, search book entries, add book entries, update book entries, delete entries.
+	-Tools used: Tkinter, sqlite3
+	-youtube demo:https://youtu.be/dmOcUb9QPUk
