@@ -37,7 +37,7 @@ My portfolio of work 201708
 	- Tools in the app: time, datetime, host file
 
 6) webapp: a website deployed on the cloud with HTML and CSS. 
-	- Check it out:https://lenaapp.herokuapp.com
+	- Check it out:TBD
 	- Tools used: Adobe photoshop, HTML, CSS, heroku
 
 7) bookstore app: a standalone application that stores book information
