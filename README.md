@@ -1,5 +1,5 @@
 # 02_UD_Portfolio
-My portfolio of work 201708
+My portfolio of work 2017
 >Stay toon for more apps.
 
 1) App1_Dictionary: a python command line app that outputs the definition of a word you enter.
@@ -22,7 +22,7 @@ My portfolio of work 201708
                      question. You will get 1 jewel for each card you answer correctly.
 	- Tools in the app: random library, dictionary of cards
 
-4) A map showing the valcano locations and population of each country.
+4) App2_webmap: A map showing the valcano locations and population of each country.
 	- How to run: 
 	  a. Execute the program by: python3 app2_webmap.py
 	  b. Open up file created in browser: Map1.html
@@ -33,11 +33,16 @@ My portfolio of work 201708
 	  3) There is layer country so you can hide/show the 'Valcano layer' or the 'Population layer'.
 	- Tools in the app: folium, pandas
 
-5) A website blocker that blocks users from accessing certain website between 8am and 4pm.
+5) App3_website_blocker: A website blocker that blocks users from accessing certain website between 8am and 4pm.
 	- Tools in the app: time, datetime, host file
 
-6) bookstore app: a standalone application that stores book information
+6) App5_BookStore: bookstore app: a standalone application that stores book information
 	- How to run: python3 app5_script1_tkinter_store.py
 	- Features: View books, search book entries, add book entries, update book entries, delete entries.
 	- Tools used: Tkinter, sqlite3
 	- youtube demo:https://youtu.be/dmOcUb9QPUk
+
+7) App6_webscrapper: An app that scraps century21 property information for Rock Springs, WY
+	- How to run: python3 app6_webscrapper
+	- Features: You can see all the data scrapped in file: Output_allpages.csv
+	- Tools used: Pandas, Requests, BeautifulSoup
