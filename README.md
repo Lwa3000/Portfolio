@@ -1,6 +1,6 @@
 # 02_UD_Portfolio
 My portfolio of work 2017
->Stay toon for more apps.
+>Stay tuned for more apps.
 
 1) App1_Dictionary: a python command line app that outputs the definition of a word you enter.
 	- How to run: Execute the program by: python3 app1_Ditionary.py
@@ -43,6 +43,6 @@ My portfolio of work 2017
 	- youtube demo:https://youtu.be/dmOcUb9QPUk
 
 7) App6_webscrapper: An app that scraps century21 property information for Rock Springs, WY
-	- How to run: python3 app6_webscrapper
+	- How to run: jupyter notbook
 	- Features: You can see all the data scrapped in file: Output_allpages.csv
-	- Tools used: Pandas, Requests, BeautifulSoup
+	- Tools used: Pandas, Requests, BeautifulSoup, Jupyter notebook(installation can be done through mini conda)
