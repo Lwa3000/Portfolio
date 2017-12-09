@@ -46,3 +46,8 @@ My portfolio of work 2017
 	- How to run: jupyter notbook
 	- Features: You can see all the data scrapped in file: Output_allpages.csv
 	- Tools used: Pandas, Requests, BeautifulSoup, Jupyter notebook(installation can be done through mini conda)
+
+8) App7_FinancialGraph: Candle stick stock price graph deployed on Heroku.
+	- How to view: https://lenafgraph.herokuapp.com/plot/
+	- Features: plot can be saved in png format. Plot can zoom and pan.
+	- Tools used: Bokeh(plots), pandas datareader(to get stock prices), flask
