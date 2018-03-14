@@ -2,24 +2,24 @@
 My portfolio of work - 2017 and 2018
 >Stay tuned for more apps.
 
-9) App8_TwitterAnalyzeBot: Generates a sentiment plot with the request of another Twitter user.
+9> App8_TwitterAnalyzeBot: Generates a sentiment plot with the request of another Twitter user.
 	- How to use: Example of a request to do Sentiment analysis on CNN: "@LenaCorredor Analyze: @CNN".  
 		      The result will be a Sentiment Analysis of CNN tweeted to the requested user.
 	   	      This Script will also output a log file.
 	- Tools: Matplotlib, pandas, tweepy  
 	- Status: turned off.
 	
-8) App7_FinancialGraph: Candle stick stock price graph deployed on Heroku.
+8> App7_FinancialGraph: Candle stick stock price graph deployed on Heroku.
 	- How to view: https://lenafgraph.herokuapp.com/plot/
 	- Features: plot can be saved in png format. Plot can zoom and pan.
 	- Tools used: Bokeh(plots), pandas datareader(to get stock prices), flask
 
-7) App6_webscrapper: An app that scraps century21 property information for Rock Springs, WY
+7> App6_webscrapper: An app that scraps century21 property information for Rock Springs, WY
 	- How to run: jupyter notbook
 	- Features: The scrapped data can be viewed in file: Output_allpages.csv
 	- Tools used: Pandas, Requests, BeautifulSoup, Jupyter notebook(installation can be done through mini conda)
 
-6) App5_BookStore: A bookstore standalone application that stores book information.
+6> App5_BookStore: A bookstore standalone application that stores book information.
 	- Main file: app5_script1_tkinter_store.py
 	- Features: View books, search book entries, add book entries, update book entries, delete entries.
 	- Tools used: Tkinter, sqlite3
