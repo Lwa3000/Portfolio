@@ -2,24 +2,24 @@
 My portfolio of work - 2017 and 2018
 >Stay tuned for more apps.
 
-9> App8_TwitterAnalyzeBot: Generates a sentiment plot with the request of another Twitter user.
+1) App8_TwitterAnalyzeBot: Generates a sentiment plot with the request of another Twitter user.
 	- How to use: Example of a request to do Sentiment analysis on CNN: "@LenaCorredor Analyze: @CNN".  
 		      The result will be a Sentiment Analysis of CNN tweeted to the requested user.
 	   	      This Script will also output a log file.
 	- Tools: Matplotlib, pandas, tweepy  
 	- Status: turned off.
 	
-8> App7_FinancialGraph: Candle stick stock price graph deployed on Heroku.
+2) App7_FinancialGraph: Candle stick stock price graph deployed on Heroku.
 	- How to view: https://lenafgraph.herokuapp.com/plot/
 	- Features: plot can be saved in png format. Plot can zoom and pan.
 	- Tools used: Bokeh(plots), pandas datareader(to get stock prices), flask
 
-7> App6_webscrapper: An app that scraps century21 property information for Rock Springs, WY
+3) App6_webscrapper: An app that scraps century21 property information for Rock Springs, WY
 	- How to run: jupyter notbook
 	- Features: The scrapped data can be viewed in file: Output_allpages.csv
 	- Tools used: Pandas, Requests, BeautifulSoup, Jupyter notebook(installation can be done through mini conda)
 
-6> App5_BookStore: A bookstore standalone application that stores book information.
+4) App5_BookStore: A bookstore standalone application that stores book information.
 	- Main file: app5_script1_tkinter_store.py
 	- Features: View books, search book entries, add book entries, update book entries, delete entries.
 	- Tools used: Tkinter, sqlite3
@@ -28,7 +28,7 @@ My portfolio of work - 2017 and 2018
 5) App3_website_blocker: A website blocker that blocks users from accessing certain website between 8am and 4pm.
 	- Tools in the app: time, datetime, host file
 
-4) App2_webmap: A map showing the valcano locations and population of each country.
+6) App2_webmap: A map showing the valcano locations and population of each country.
 	- How to run: 
 	  a. Execute the program by: python3 app2_webmap.py
 	  b. Open up file created in browser: Map1.html
@@ -41,7 +41,7 @@ My portfolio of work - 2017 and 2018
 	  3) There is layer-country so the user can hide/show the 'Valcano layer' or the 'Population layer'.
 	- Tools in the app: folium, pandas
 
-3) app_physiology_card_game: This is a beta version. A buzzfeed game that helps the player learn human physiology.
+7) app_physiology_card_game: This is a beta version. A buzzfeed game that helps the player learn human physiology.
 	- How to run: Execute the main file Game1_v2.py, then follow instructions
 	- Features: This app helps player learn by showing facts and checks if player remember them until a correct 
 		    answer is selected.
@@ -50,13 +50,13 @@ My portfolio of work - 2017 and 2018
                      question. The player will get 1 jewel for each card answered correctly.
 	- Tools in the app: random library, dictionary of cards
 
-2) App_weather_api: Connects to a weather website api and checks the weather to see if an umbrella is needed today.
+8) App_weather_api: Connects to a weather website api and checks the weather to see if an umbrella is needed today.
 	- How to run: Install flask. Start up the Flask server in a virtual environment and apply the requirement.txt file. 
 		      Make sure there is connection to the internet.
 	- Features: Works for most US cities and zip codes, and possibility some international cities.
 	- Tools in the app: Flask, API
 
-1) App1_Dictionary: a python command line app that outputs the definition of a word entered.
+9) App1_Dictionary: a python command line app that outputs the definition of a word entered.
 	- How to run: Execute the program by: python3 app1_Ditionary.py
 	- Features: If a word is mistyped. For example: rainn instead of rain, the program will suggest the closest matching word.
 	- Tools in the app: JSON file, difflib
