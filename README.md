@@ -10,7 +10,7 @@ My portfolio of work - 2017 and 2018
 2) Presentation: Data engineering experiment 
     https://docs.google.com/presentation/d/1_YzgOiKi_mDTA2ZA-337RQc9RMSzSYbIX39nPaqlXSw/edit?usp=sharing
 	- description: compare the processing time of Pandas versus Python data structure for an base case ETL process
-	- Tools/Libraries: pandas, datetime, sqlalchemy, pymysql, csv, 
+	- Tools/Libraries: pandas, datetime, sqlalchemy, pymysql, csv
 
 3) App8_TwitterAnalyzeBot: Generates a sentiment plot with the request of another Twitter user.
 	- How to use: Example of a request to do Sentiment analysis on CNN: "@LenaCorredor Analyze: @CNN".  
