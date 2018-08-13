@@ -4,16 +4,20 @@ My portfolio of work - 2017 and 2018
 
 1) Presentation: BART delay analysis
    https://docs.google.com/presentation/d/1TtxBkK_1ycEkZEMcZ7vQ9ChIyhvvPe13v18e2xERlTQ/edit?usp=sharing 
+   - description: Used Twitter @SFBARTalert account to analyze delay metrics for the past two years
+   - Tools/Libraries: csv, pandas, matplotlib.pyplot, seaborn, datetime, numpy, plotly  
 
-2) Presentation: Data engineering experiment - comparing Pandas to Python data structure for an ETL process
+2) Presentation: Data engineering experiment 
     https://docs.google.com/presentation/d/1_YzgOiKi_mDTA2ZA-337RQc9RMSzSYbIX39nPaqlXSw/edit?usp=sharing
+	- description: compare the processing time of Pandas versus Python data structure for an base case ETL process
+	- Tools/Libraries: pandas, datetime, sqlalchemy, pymysql, csv, 
 
 3) App8_TwitterAnalyzeBot: Generates a sentiment plot with the request of another Twitter user.
 	- How to use: Example of a request to do Sentiment analysis on CNN: "@LenaCorredor Analyze: @CNN".  
 		      The result will be a Sentiment Analysis of CNN tweeted to the requested user.
 	   	      This Script will also output a log file.
 	- Tools: Matplotlib, pandas, tweepy  
-	- Status: turned off.
+	- Status: turned off
 	
 4) App7_FinancialGraph: Candle stick stock price graph deployed on Heroku.
 	- How to view: https://lenafgraph.herokuapp.com/plot/
