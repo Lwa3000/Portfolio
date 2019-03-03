@@ -1,6 +1,5 @@
 # 02_UD_Portfolio
-My portfolio of work - 2017 and 2018
->Stay tuned for more apps.
+My portfolio of work - 2017-2019
 
 1) Presentation:Healthline - product boost with data analytics
    https://docs.google.com/presentation/d/1AXMVza7nxXphlav9usOyTaRh38lPIunPXg--AHAEdsY/edit?usp=sharing
