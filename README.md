@@ -71,7 +71,7 @@ My portfolio of work - 2017-2019
 
 12) App1_Dictionary: a python command line app that outputs the definition of a word entered.
 	- How to run: Execute the program by: python3 app1_Ditionary.py
-	- Features: If a word is mistyped. For example: rainn instead of rain, the program will suggest the closest matching word.
+	- Features: If a word is mistyped, the program will suggest the closest matching word. For example: 'rain' will be suggested instead of 'rainn'.
 	- Tools in the app: JSON file, difflib
 	- youtube demo: https://youtu.be/2_JH0JhCag0
 
