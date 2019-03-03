@@ -45,7 +45,7 @@ My portfolio of work - 2017-2019
 	- How to run: 
 	  a. Execute the program by: python3 app2_webmap.py
 	  b. Open up file created in browser: Map1.html
-	-youtube demo:https://youtu.be/WPgKAm14Bj0
+	- youtube demo:https://youtu.be/WPgKAm14Bj0
 	- Features: 
 	  1) There are markers showing valcano locations. The color indicates the height of the valcano. 			  
 	     Green for less than 1000m; orange for between 1000 and 3000m; red for greater than 3000m.
