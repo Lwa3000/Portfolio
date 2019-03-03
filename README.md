@@ -3,7 +3,7 @@ My portfolio of work - 2017-2019
 
 1) Presentation: Healthline - product boost with data analytics
    https://docs.google.com/presentation/d/1AXMVza7nxXphlav9usOyTaRh38lPIunPXg--AHAEdsY/edit?usp=sharing
-   - description: Healthline is a health information website with advertisement revenue. Healthline can increase and retain  	  readership with a data analytics component.
+   - description: Healthline is a health information website with advertisement revenue. Healthline can increase and retain  	  readership with a data analytics component that targets customer preferences and generate content high in demand.
    
 2) Presentation: BART delay analysis
    https://docs.google.com/presentation/d/1TtxBkK_1ycEkZEMcZ7vQ9ChIyhvvPe13v18e2xERlTQ/edit?usp=sharing 
