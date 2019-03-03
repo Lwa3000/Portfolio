@@ -12,7 +12,7 @@ My portfolio of work - 2017-2019
 
 3) Presentation: Data engineering experiment
    https://docs.google.com/presentation/d/1_YzgOiKi_mDTA2ZA-337RQc9RMSzSYbIX39nPaqlXSw/edit?usp=sharing
-	- description: comparison of the processing time between Pandas versus Python data structure for a base case ETL process
+	- description: comparison of the processing time between Pandas versus Python data structure for a base case ETL/integration process
 	- Tools/Libraries: pandas, datetime, sqlalchemy, pymysql, csv
 
 4) App8_TwitterAnalyzeBot: Generates a sentiment plot with the request of another Twitter user.
