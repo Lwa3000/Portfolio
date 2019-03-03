@@ -11,7 +11,7 @@ My portfolio of work - 2017-2019
    - Tools/Libraries: csv, pandas, matplotlib.pyplot, seaborn, datetime, numpy, plotly  
 
 3) Presentation: Data engineering experiment 
-    https://docs.google.com/presentation/d/1_YzgOiKi_mDTA2ZA-337RQc9RMSzSYbIX39nPaqlXSw/edit?usp=sharing
+   https://docs.google.com/presentation/d/1_YzgOiKi_mDTA2ZA-337RQc9RMSzSYbIX39nPaqlXSw/edit?usp=sharing
 	- description: comparison of the processing time between Pandas versus Python data structure for a base case ETL process
 	- Tools/Libraries: pandas, datetime, sqlalchemy, pymysql, csv
 
