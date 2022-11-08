@@ -1,5 +1,6 @@
 #Game1 Summary
 #Game title: HumanBody Card Game
+#This is a trivia card game
 
 from random import choice
 
