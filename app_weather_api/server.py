@@ -1,3 +1,4 @@
+#This is an python API that checks the weather and tells you if you should bring umbrella out for the day.
 from flask import Flask, request, render_template
 from random import choice, randint
 import urllib2
