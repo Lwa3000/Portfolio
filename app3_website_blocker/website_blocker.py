@@ -1,5 +1,5 @@
 '''
-Description: This python program blocks websites at certain hour of the day to keep user productive.
+Description: This python program blocks websites at certain hour of the day to keep the user from going to social sites and productive.
 How to run by superuser: 1. change hosts_temp to hosts_path
 						 2. Save file in Application folder
 						 3. In terminal: sudo crontab -e
