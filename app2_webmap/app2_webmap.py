@@ -4,7 +4,7 @@ How to run: 1. Execute the program by: python3 app2_webmap.py
 			2. Open up file created in browser: Map1.html
 Features: 1. There are markets showing valcano locations. The color indicates the height of the valcano. Green for less than 1000m; orange for between 1000 and 3000m; red for greater than 3000m.
 		  2. The color for each country represents the population of the country. Green for less than 10 millions; Orange for between 10 million and 20 millions; Red for greater than 20 millions.
-		  3. There is layer country so you can hide/show the 'Valcano layer' or the 'Population layer'
+		  3. There is layer country so you can hide/show the 'Valcano layer' or the 'Population layer'.
 '''
 import folium
 import pandas
